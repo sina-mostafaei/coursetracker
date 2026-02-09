@@ -11,23 +11,3 @@ This is a simple C++ program designed to manage student information and their co
 *   Search Students: Find a student by name and last name.
 *   Find Top Student: Identify the student with the highest average grade.
 *   Display Student Details: Print student information and their course details.
-
-**How to Compile & Run:**
-
-1.  Save the code as `student_management.cpp`.
-2.  Compile using a C++ compiler (e.g., g++, clang++) :
-    ```bash
-    g++ student_management.cpp -o student_management
-    ```
-3.  Run the executable:
-    ```bash
-    ./student_management
-    ```
-
-**Dependencies:**
-
-*   A C++ Compiler (g++, clang++, etc.)
-
-**Author:** [Your Name/GitHub Username]
-
-**License:** [Choose a license - e.g., MIT License, GPLv3]  (If you're not sure, use the MIT License: https://opensource.org/licenses/MIT)
